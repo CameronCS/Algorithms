@@ -21,3 +21,4 @@ All arguments are not case sensitive as it is just a way of running the Algorith
 worry about specifically entering each argument.
 
 1. Two-Sum
+2. Add-Two-Nums
